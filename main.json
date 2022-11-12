@@ -1,0 +1,31 @@
+{
+    "active_events": [
+        {
+            "type": "Yen",
+            "text": "2x Coins",
+            "amount": 2,
+
+            "endDate": {
+                "year": 2022,
+                "month": 9,
+                "day": 25,
+                "hour": 15,
+                "min": 0
+            }
+        },
+        
+        {
+            "type": "Gem",
+            "text": "2x Gems",
+            "amount": 2,
+
+            "endDate": {
+                "year": 2022,
+                "month": 9,
+                "day": 25,
+                "hour": 15,
+                "min": 0
+            }
+        }
+    ]
+}
