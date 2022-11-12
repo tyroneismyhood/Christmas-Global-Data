@@ -13,19 +13,5 @@
                 "min": 0
             }
         },
-        
-        {
-            "type": "Gem",
-            "text": "2x Gems",
-            "amount": 2,
-
-            "endDate": {
-                "year": 2022,
-                "month": 11,
-                "day": 15,
-                "hour": 15,
-                "min": 0
-            }
-        }
     ]
 }
