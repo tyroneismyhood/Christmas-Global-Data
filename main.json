@@ -35,5 +35,11 @@
            "RewardName": "X2Coins",
            "Reward": 300
        },
+        
+        "test": {
+           "RewardType": "Coins",
+           "RewardName": "Coins",
+           "Reward": 500
+       },
     }
 }
