@@ -27,19 +27,5 @@
                 "min": 0
             }
         }
-    ],
-    
-    "codes": {
-       "release": {
-           "RewardType": "Boost",
-           "RewardName": "X2Coins",
-           "Reward": 300
-       },
-        
-        "test": {
-           "RewardType": "Coins",
-           "RewardName": "Coins",
-           "Reward": 500
-       }
-    }
+    ]
 }
