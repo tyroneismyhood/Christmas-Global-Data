@@ -43,7 +43,7 @@
        }
     },
 
-    "updatecountdown": {
+    "update_countdown": {
         "endDate": {
             "year": 2022,
             "month": 11,
