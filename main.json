@@ -43,13 +43,18 @@
        }
     },
 
-    "update_countdown": {
-        "endDate": {
-            "year": 2022,
-            "month": 11,
-            "day": 17,
-            "hour": 15,
-            "min": 0
+    "update_countdown": [
+        {
+            "type": "Update",
+            "text": "Update 1",
+
+            "endDate": {
+                "year": 2022,
+                "month": 11,
+                "day": 17,
+                "hour": 15,
+                "min": 0
+            }
         }
-    }
+    ]
 }
