@@ -12,7 +12,7 @@
                 "hour": 15,
                 "min": 0
             }
-        },
+        }
     ],
     
     "codes": {
@@ -20,7 +20,7 @@
            "RewardType": "Boost",
            "RewardName": "X2 Kills",
            "Reward": 300
-       },
+       }
     },
 
     "update_countdown": [
