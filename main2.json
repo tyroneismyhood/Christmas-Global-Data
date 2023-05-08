@@ -1,0 +1,40 @@
+{
+    "active_events": [
+        {
+            "type": "Coins",
+            "text": "2x Speed",
+            "amount": 2,
+
+            "endDate": {
+                "year": 2022,
+                "month": 11,
+                "day": 15,
+                "hour": 15,
+                "min": 0
+            }
+        },
+    ],
+    
+    "codes": {
+       "release": {
+           "RewardType": "Boost",
+           "RewardName": "X2 Kills",
+           "Reward": 300
+       },
+    },
+
+    "update_countdown": [
+        {
+            "type": "Update",
+            "text": "Update 1",
+
+            "endDate": {
+                "year": 2022,
+                "month": 11,
+                "day": 17,
+                "hour": 15,
+                "min": 0
+            }
+        }
+    ]
+}
