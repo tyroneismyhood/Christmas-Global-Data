@@ -1,8 +1,8 @@
 {
     "active_events": [
         {
-            "type": "Coins",
-            "text": "2x Speed",
+            "type": "Wins",
+            "text": "2x Wins",
             "amount": 2,
 
             "endDate": {
