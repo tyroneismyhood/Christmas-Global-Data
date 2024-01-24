@@ -6,13 +6,13 @@
             "amount": 2,
 
             "endDate": {
-                "year": 2022,
-                "month": 11,
-                "day": 15,
+                "year": 2024,
+                "month": 2,
+                "day": 25,
                 "hour": 15,
                 "min": 0
             }
-        },
+        }
     ],
     
     "codes": {
@@ -20,7 +20,7 @@
            "RewardType": "Boost",
            "RewardName": "X2 Coins",
            "Reward": 300
-       },
+       }
     },
 
     "update_countdown": [
@@ -29,9 +29,9 @@
             "text": "Update 1",
 
             "endDate": {
-                "year": 2022,
-                "month": 11,
-                "day": 17,
+                "year": 2024,
+                "month": 2,
+                "day": 25,
                 "hour": 15,
                 "min": 0
             }
