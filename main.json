@@ -33,7 +33,7 @@
 
         "realm2": {
             "RewardType": "Item",
-            "Reward": "Apple",
+            "Reward": "Apple"
         }
     },
 
