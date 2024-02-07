@@ -18,7 +18,7 @@
     "codes": {
        "release": {
            "RewardType": "Boost",
-           "RewardName": "X2 Coins",
+           "RewardName": "CoinsBoost",
            "Reward": 300
        }
     },
