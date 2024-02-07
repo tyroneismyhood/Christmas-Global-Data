@@ -19,7 +19,22 @@
        "release": {
            "RewardType": "Boost",
            "RewardName": "CoinsBoost20m"
-       }
+       },
+
+        "250likes": {
+            "RewardType": "Boost",
+            "RewardName": "LuckBoost15m"
+        },
+
+        "1klikes": {
+            "RewardType": "Boost",
+            "RewardName": "TripleLuckBoost2m"
+        },
+
+        "realm2": {
+            "RewardType": "Item",
+            "Reward": "Apple",
+        }
     },
 
     "update_countdown": [
