@@ -33,12 +33,14 @@
 
         "realm2": {
             "RewardType": "Item",
-            "Reward": "Apple"
+            "Reward": "Apple",
+            "Amount": 1
         },
 
         "bugs": {
             "RewardType": "Item",
-            "Reward": "Spin Token"
+            "Reward": "Spin Token",
+            "Amount": 2
         }
     },
 
