@@ -87,6 +87,11 @@
             "RewardType": "Item",
             "Reward": "Spin Token",
             "Amount": 2
+        },
+
+        "2KFavs": {
+            "RewardType": "Boost",
+            "RewardName": "PowerBoost10m"
         }
     },
 
