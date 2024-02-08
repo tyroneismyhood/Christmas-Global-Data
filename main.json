@@ -39,7 +39,7 @@
         "bugs": {
             "RewardType": "Item",
             "Reward": "Spin Token",
-        },
+        }
     },
 
     "update_countdown": [
