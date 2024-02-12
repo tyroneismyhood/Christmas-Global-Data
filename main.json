@@ -1,36 +1,6 @@
 {
     "active_events": [
         {
-            "type": "PowerBoost",
-            "text": "X2 Power",
-            "amount": 2,
-            "icon": "rbxassetid://15789289646",
-
-            "endDate": {
-                "year": 2024,
-                "month": 2,
-                "day": 12,
-                "hour": 15,
-                "min": 0
-            }
-        },
-
-        {
-            "type": "CoinsBoost",
-            "text": "X2 Coins",
-            "amount": 2,
-            "icon": "rbxassetid://15789286409",
-
-            "endDate": {
-                "year": 2024,
-                "month": 2,
-                "day": 12,
-                "hour": 15,
-                "min": 0
-            }
-        },
-
-        {
             "type": "LuckBoost",
             "text": "X2 Luck",
             "amount": 2,
@@ -39,26 +9,11 @@
             "endDate": {
                 "year": 2024,
                 "month": 2,
-                "day": 12,
-                "hour": 15,
+                "day": 16,
+                "hour": 12,
                 "min": 0
             }
         },
-
-        {
-            "type": "DamageBoost",
-            "text": "X2 Damage",
-            "amount": 2,
-            "icon": "rbxassetid://15789288476",
-
-            "endDate": {
-                "year": 2024,
-                "month": 2,
-                "day": 12,
-                "hour": 15,
-                "min": 0
-            }
-        }
     ],
     
     "codes": {
